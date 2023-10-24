@@ -30,4 +30,4 @@ six==1.14.0
 SQLAlchemy==2.0.21
 urllib3==1.25.8
 Werkzeug==3.0.0
-WTForms==2.2.1
+WTForms==3.0.1
